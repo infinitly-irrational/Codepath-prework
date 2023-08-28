@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough gif](https://imgur.com/1zhNQhl.gif)
+![Video Walkthrough gif](walkthrough.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/)
